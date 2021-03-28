@@ -1,4 +1,3 @@
-# GAIH Student Repo Example
 ![](img/newlogo.png)
 
 **Course Date:** 22.03.2021
@@ -13,9 +12,9 @@ Description of your project.
 
 ## Requirements
 ```
-Some python libraries
-Some python libraries
-Some python libraries
+Numpy
+Pandas
+Scikit-Learn
 ```
 ---
 
