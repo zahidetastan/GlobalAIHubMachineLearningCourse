@@ -19,5 +19,5 @@ Scikit-Learn
 ---
 
 ### Certification
-![](img/TopLearnerCertificate.png)
+![](img/aihubcertificate.png)
 
