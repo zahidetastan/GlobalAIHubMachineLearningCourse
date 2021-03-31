@@ -5,10 +5,8 @@
 **Surname:** Taştan  
 **Email:** zahidett60@gmail.com  
 
-**Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
-
 ## Project Name
-Description of your project.
+Implementation of machine learning algorithms such that linear regression, decision tree, XGboost, Naive Bayes. 
 
 ## Requirements
 ```
